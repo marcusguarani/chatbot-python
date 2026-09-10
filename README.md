@@ -12,12 +12,12 @@
 
 ## Sobre este repositório
 
-Este projeto é uma **adaptação** do [ChatBot original criado por Maria Machado](https://github.com/MaaMachado/chatbot),
-desenvolvido como atividade final da UC15 (Implementação de Inteligência Artificial) do curso Técnico em
-Desenvolvimento de Sistemas — Senac. Todo o crédito pela concepção original, pela integração Python + PHP e pela
-lógica inicial de perguntas e respostas é dela.
+O sistema ChatBot foi desenvolvido com o objetivo de demonstrar e aplicar conhecimentos em Python, 
+servindo como uma introdução ao desenvolvimento de chatbots. A aplicação utiliza conceitos de processamento de linguagem natural para interpretar as perguntas dos usuários, 
+identificar palavras-chave e, a partir delas, gerar respostas e reações adequadas.
 
-A partir do projeto original, fiz as seguintes adaptações  e melhorias nesta versão:
+Ao longo do desenvolvimento, o projeto original passou por diversas adaptações e melhorias, 
+com o objetivo de aprimorar sua interface, funcionamento e capacidade de interação.
 
 - **Interface reformulada**: layout de chat de verdade, com bolhas de mensagem, avatar, indicador de "digitando..."
   e histórico da conversa (antes era uma única caixa de pergunta/resposta)
@@ -116,7 +116,7 @@ Este é um chatbot baseado em **reconhecimento de palavras-chave**, não em inte
 ele só responde ao que já está programado nas categorias de `chatbot.py`. Perguntas fora desse escopo (conhecimento
 geral, cálculos, etc.) recebem uma resposta padrão pedindo para reformular.
 
-## Autor da adaptação
+## Autor
 
 **Marcus Guarani**
 
