@@ -11,7 +11,7 @@ nltk.download('punkt_tab')
 respostas = {
     "cumprimento": "Como posso ajudar você neste belo dia?",
     "gentileza": "Estou bem, obrigada por perguntar. Espero que você também esteja bem.",
-    "nome": "Meu nome é ChatBot do sistema MAAM.",
+    "nome": "Meu nome é ChatBot Guarani.",
     "funcao": "Fui criado para introduzir o estudo de Inteligência Artificial. Posso responder a perguntas simples para iniciar um diálogo com o usuário.",
     "despedida": "Tchau! Muito obrigada por testar esse serviço! Tenha um bom dia!",
     "idade": "Sou um programa de computador, não tenho idade como as pessoas — mas fui criado em 2023!",

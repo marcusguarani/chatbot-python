@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="icon" href="View/icon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="View/style.css">
-    <title>ChatBot · Sistema MAAM</title>
+    <title>ChatBot Guarani</title>
 </head>
 
 <body>
@@ -23,8 +23,8 @@
                 <i class="ph-fill ph-robot"></i>
             </div>
             <div id="header-info">
-                <h1>ChatBot</h1>
-                <p><span id="status-dot"></span> Sistema MAAM · Online</p>
+                <h1>ChatBot Guarani</h1>
+                <p><span id="status-dot"></span> Assistente virtual · Online</p>
             </div>
         </header>
 

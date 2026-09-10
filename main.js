@@ -56,7 +56,7 @@ $(document).ready(function () {
 
     // Mensagem inicial de boas-vindas
     adicionarMensagem(
-        "Olá! Eu sou o sistema MAAM. Por favor, digite sua pergunta ou 'Tchau' para encerrar a nossa conversa.",
+        "Olá! Eu sou o ChatBot Guarani. Por favor, digite sua pergunta ou 'Tchau' para encerrar a nossa conversa.",
         'bot'
     );
 
