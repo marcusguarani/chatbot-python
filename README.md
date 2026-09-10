@@ -2,7 +2,7 @@
   <img src=".github/screenshot.png" alt="Tela do ChatBot mostrando a conversa em formato de bolhas de mensagem" width="380">
 </p>
 
-<h1 align="center">🤖 ChatBot</h1>
+<h1 align="center">🤖 ChatBot Guarani</h1>
 
 <p align="center">
   Chatbot de perguntas e respostas com reconhecimento de palavras-chave, interface de chat e backend em Python.
@@ -61,7 +61,7 @@ Este projeto precisa de dois servidores rodando ao mesmo tempo: o **Laragon** (p
 
 ```bash
 cd C:\laragon\www
-git clone https://github.com/SEU_USUARIO/chatbot.git
+git clone https://github.com/SEU_USUARIO/chatbot-python.git
 ```
 
 ### 3. Instale as dependências Python
@@ -88,11 +88,11 @@ só acontece uma vez.
 ### 6. Acesse no navegador
 
 ```
-http://localhost/chatbot/index.php
+http://localhost/chatbot-python/index.php
 ```
 
-> Se o projeto estiver dentro de uma subpasta (ex: `www/sistemas/chatbot`), ajuste a URL de acordo, por exemplo:
-> `http://localhost/sistemas/chatbot/index.php`
+> Se o projeto estiver dentro de uma subpasta (ex: `www/sistemas/chatbot-python`), ajuste a URL de acordo, por
+> exemplo: `http://localhost/sistemas/chatbot-python/index.php`
 
 ### 7. Converse com o bot
 
@@ -107,13 +107,19 @@ Experimente perguntas como:
 - "Obrigado"
 - "Tchau"
 
+> Quer ver todas as frases reconhecidas ou adicionar novas categorias? Estão no dicionário `categorias`, no início
+> do `chatbot.py`.
+
 ## Limitações
 
 Este é um chatbot baseado em **reconhecimento de palavras-chave**, não em inteligência artificial generativa —
 ele só responde ao que já está programado nas categorias de `chatbot.py`. Perguntas fora desse escopo (conhecimento
 geral, cálculos, etc.) recebem uma resposta padrão pedindo para reformular.
 
-## Créditos
+## Autor da adaptação
 
-- Projeto original: [Maria Machado](https://github.com/MaaMachado/chatbot)
-- Ícones: [Phosphor Icons](https://phosphoricons.com/)
+**Marcus Guarani**
+
+[![GitHub](https://img.shields.io/badge/GitHub-marcusguarani-181717?style=flat&logo=github)](https://github.com/marcusguarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusguarani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcusguarani)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcusguarani.com.br-000000?style=flat&logo=googlechrome&logoColor=white)](https://marcusguarani.com.br)
