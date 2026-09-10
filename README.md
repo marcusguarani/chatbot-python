@@ -17,7 +17,7 @@ desenvolvido como atividade final da UC15 (Implementação de Inteligência Arti
 Desenvolvimento de Sistemas — Senac. Todo o crédito pela concepção original, pela integração Python + PHP e pela
 lógica inicial de perguntas e respostas é dela.
 
-A partir do projeto original, fiz as seguintes adaptações nesta versão:
+A partir do projeto original, fiz as seguintes adaptações  e melhorias nesta versão:
 
 - **Interface reformulada**: layout de chat de verdade, com bolhas de mensagem, avatar, indicador de "digitando..."
   e histórico da conversa (antes era uma única caixa de pergunta/resposta)
